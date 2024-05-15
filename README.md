@@ -24,5 +24,5 @@ git push origin main
 
 ```shell
 code .
-ni "FileNameHere"
+ni "NewFileName"
 ```
